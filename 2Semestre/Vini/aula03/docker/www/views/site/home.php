@@ -1,0 +1,11 @@
+<h1>Home</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex culpa architecto voluptatum alias veniam,
+    sunt voluptatibus quos nemo nihil molestias perspiciatis dolores aperiam nulla quidem totam. Eum
+    necessitatibus, mollitia quibusdam enim dolore hic numquam nulla, placeat nam ad corporis commodi
+    distinctio temporibus eligendi, porro iusto asperiores earum perspiciatis. Nisi dolore eius aut, ab
+    quidem soluta sint veniam tenetur laborum voluptatum accusantium optio quam at, quia asperiores
+    repellendus aperiam corrupti explicabo! A quos earum id perspiciatis culpa hic adipisci, quisquam
+    ipsam maxime repudiandae fugit minima saepe quis sunt similique dolores ad provident deleniti
+    recusandae! Mollitia dolorum aperiam amet praesentium nesciunt fugit.
+</p>
+

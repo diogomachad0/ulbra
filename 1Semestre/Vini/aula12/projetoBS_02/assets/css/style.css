@@ -1,0 +1,16 @@
+header{
+    background-color: rgba(20, 211, 135, 0.614);
+} 
+
+#foto{
+    max-width: 350px;
+}
+
+#imgTrab{
+    height: 350px;
+    width: 350px;
+}
+
+footer{
+    background-color: black;
+}

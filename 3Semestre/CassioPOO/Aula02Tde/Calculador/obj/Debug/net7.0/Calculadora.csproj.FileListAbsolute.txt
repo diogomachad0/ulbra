@@ -1,0 +1,5 @@
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\aula02Exer\Calculadora\obj\Debug\net7.0\Calculadora.csproj.AssemblyReference.cache
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\aula02Exer\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\aula02Exer\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\aula02Exer\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\aula02Exer\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache

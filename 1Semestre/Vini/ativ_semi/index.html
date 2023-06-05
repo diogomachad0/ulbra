@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script type="text/javascript" src="script.js"></script>
+</head>
+
+<body>
+
+    <button onclick="calculos()">Clique aqui para obter resultados entre 2 números!</button>
+    <section id="resultado">
+        <p>Resultados...</p>
+    </section>
+
+    <script>
+        function calculos() {
+            var n1 = parseFloat(prompt('Digite um número: '))
+            var n2 = parseFloat(prompt('Digite outro número: '))
+            soma = n1 + n2
+            subtracao = n1 - n2
+            multiplicacao = n1 * n2
+            divisao = n1 / n2
+            switch (soma) {
+                case soma:
+                    console.log('Resultado soma: ' + soma)
+                case subtracao:
+                    console.log('Resultado subtração: ' + subtracao)
+                case multiplicacao:
+                    console.log('Resultado multiplicação: ' + multiplicacao)
+                case divisao:
+                    console.log('Resultado divisão: ' + divisao)
+            }
+            var resultado = document.querySelector('section#resultado')
+            resultado.innerHTML = `<p>Resultados dos números ${n1} e ${n2} são:<br> Soma = ${soma}<br> Subtração = ${subtracao}<br> Multiplicação = ${multiplicacao}<br> Divisão = ${divisao}<p>`
+        }
+    </script>
+
+
+
+
+
+</body>
+
+</html>
