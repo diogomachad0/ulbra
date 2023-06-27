@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "85ZN1snUTJDT09dpPZWTh0QUAFAwWGvssgpGzUC/cBMHTOyczGLoo2ZRbsC/cEtI+lcjbjVc0MtLIe6yt0a79A==",
+  "dgSpecHash": "nb90cBwFLOkpS6ch4r3U69NEMAq8JygEMdbnSD/a0Q7uw7gXVOFX+i47Ox0y27fQvSIIGjaa9TZ9s8I8Y9rFwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diogo\\OneDrive\\Área de Trabalho\\Aula18_TestandoORM\\Aula12_TestandoORM.csproj",
+  "projectFilePath": "D:\\Ulbra\\ulbra\\3Semestre\\CassioPOO\\Aula18_TestandoORM\\Aula12_TestandoORM.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\diogo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\diogo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\diogo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\diogo\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.5\\microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
     "C:\\Users\\diogo\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "C:\\Users\\diogo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
