@@ -42,11 +42,6 @@ public class Animal {
         this.peso = peso;
         this.especie = especie;
     }
-
-    public void detalhes(String nome, int idade, double peso, String especie){
-        System.out.println("Nome: "  + getNome() + ("Idade: " + getIdade()) +  ("Peso: " + getPeso()) + ("Especie: " + getEspecie()));
-    }
-
     public void movimentar(String movimento) {
         System.out.println(nome + " se moveu de maneira específica: " + movimento);
     }
