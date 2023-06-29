@@ -139,4 +139,4 @@ db.cliente.createIndex({ "id": 1 })
 com isso ajuda a acelerar a busca por clientes com base no seu id
 
 db.pedido.createIndex({ "Cliente_id": 1 })
-isso permite uma recuperação mais rapida dos pedidos associados a um cliente 
+permite uma recuperação mais rapida dos pedidos associados a um cliente 
