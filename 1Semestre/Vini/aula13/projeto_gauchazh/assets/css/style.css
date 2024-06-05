@@ -1,0 +1,38 @@
+footer{
+    background-color: rgb(255, 119, 0);
+}
+#noticia1{
+    width: 300px;
+    height: 200px;
+}
+
+#noticia2{
+    width: 140px;
+    height: 140px;
+}
+
+#noticia2papel{
+    width: 138px;
+    height: 120px;
+}
+
+#noticia2pad{
+    padding-left: 30px;
+    padding-right: 200px;
+}
+
+#orange{
+    color: rgb(255, 119, 0);
+}
+
+#fundo{
+    background-color: rgb(250, 241, 228);
+}
+
+#wpp{
+    font-size: 25px;
+}
+
+#icons{
+    font-size: 25px;
+}

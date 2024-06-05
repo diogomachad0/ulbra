@@ -1,0 +1,30 @@
+D:\Faculdade\3° Semestre\Cassio POO\poo_cassio2023\aula01\bin\Debug\net7.0\aula01.exe
+D:\Faculdade\3° Semestre\Cassio POO\poo_cassio2023\aula01\bin\Debug\net7.0\aula01.deps.json
+D:\Faculdade\3° Semestre\Cassio POO\poo_cassio2023\aula01\bin\Debug\net7.0\aula01.runtimeconfig.json
+D:\Faculdade\3° Semestre\Cassio POO\poo_cassio2023\aula01\bin\Debug\net7.0\aula01.dll
+D:\Faculdade\3° Semestre\Cassio POO\poo_cassio2023\aula01\bin\Debug\net7.0\aula01.pdb
+D:\Faculdade\3° Semestre\Cassio POO\poo_cassio2023\aula01\obj\Debug\net7.0\aula01.csproj.AssemblyReference.cache
+D:\Faculdade\3° Semestre\Cassio POO\poo_cassio2023\aula01\obj\Debug\net7.0\aula01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\3° Semestre\Cassio POO\poo_cassio2023\aula01\obj\Debug\net7.0\aula01.AssemblyInfoInputs.cache
+D:\Faculdade\3° Semestre\Cassio POO\poo_cassio2023\aula01\obj\Debug\net7.0\aula01.AssemblyInfo.cs
+D:\Faculdade\3° Semestre\Cassio POO\poo_cassio2023\aula01\obj\Debug\net7.0\aula01.csproj.CoreCompileInputs.cache
+D:\Faculdade\3° Semestre\Cassio POO\poo_cassio2023\aula01\obj\Debug\net7.0\aula01.dll
+D:\Faculdade\3° Semestre\Cassio POO\poo_cassio2023\aula01\obj\Debug\net7.0\refint\aula01.dll
+D:\Faculdade\3° Semestre\Cassio POO\poo_cassio2023\aula01\obj\Debug\net7.0\aula01.pdb
+D:\Faculdade\3° Semestre\Cassio POO\poo_cassio2023\aula01\obj\Debug\net7.0\aula01.genruntimeconfig.cache
+D:\Faculdade\3° Semestre\Cassio POO\poo_cassio2023\aula01\obj\Debug\net7.0\ref\aula01.dll
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula01\bin\Debug\net7.0\aula01.exe
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula01\bin\Debug\net7.0\aula01.deps.json
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula01\bin\Debug\net7.0\aula01.runtimeconfig.json
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula01\bin\Debug\net7.0\aula01.dll
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula01\bin\Debug\net7.0\aula01.pdb
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula01\obj\Debug\net7.0\aula01.csproj.AssemblyReference.cache
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula01\obj\Debug\net7.0\aula01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula01\obj\Debug\net7.0\aula01.AssemblyInfoInputs.cache
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula01\obj\Debug\net7.0\aula01.AssemblyInfo.cs
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula01\obj\Debug\net7.0\aula01.csproj.CoreCompileInputs.cache
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula01\obj\Debug\net7.0\aula01.dll
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula01\obj\Debug\net7.0\refint\aula01.dll
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula01\obj\Debug\net7.0\aula01.pdb
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula01\obj\Debug\net7.0\aula01.genruntimeconfig.cache
+D:\Faculdade\3°Semestre\CassioPOO\poo_cassio2023\Aula01\obj\Debug\net7.0\ref\aula01.dll

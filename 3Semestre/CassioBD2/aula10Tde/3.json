@@ -1,0 +1,6 @@
+db.createCollection("pizzas")
+    db.pizzas.insertMany([
+        {
+            
+        }
+    ])

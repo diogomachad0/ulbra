@@ -1,0 +1,222 @@
+*{
+    margin: 0 auto;
+}
+a, a:link, a:hover, a:visited{
+    text-decoration: none;
+    color: #ffffff;
+}
+body{
+    background-color: #e2e2e2;
+}
+
+.divTudo{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.divLinha{
+    clear: both;
+}
+
+.h2TituloSessao{
+    font-size: 20px;
+}
+
+#divCabecalho{
+    background-color: #162e54;
+    min-height: 100px;
+    padding: 20px 50px 20px 50px;
+    position: relative;
+}
+
+#h3TituloGrupo{
+    font-size: 14px;
+    padding: 5px 5px 5px 5px;
+}
+
+#h1TituloCabecalho{
+    color: #fff;
+    font-size: 16px;
+    float: left;
+    text-align: left;
+    min-width: 50%;
+
+}
+
+#divClassificacao{
+    width: 50%;
+    background-color: #fff;
+}
+#tableClassificacao{
+    width: 100%;
+    background-color: #ffffff;
+}
+
+#divGoleadores{
+    width: 50%;
+    background-color: #fff;
+
+}
+
+#tableGoleadores{
+    width: 100%;
+
+}
+
+.tdNomeClube{
+    text-align: left;
+    width: 47%;
+}
+
+.tdNomeJogador{
+    width: 80%;
+    text-align: left;
+}
+
+#divJogos{
+    width: 50%;
+    background-color: #fff;
+    
+}
+#tableJogos{
+    width: 100%;
+    background-color: #fff;
+}
+
+#tableJogos .tableJogo{
+    width: 100%;
+    
+}
+
+#imgicons{
+    max-width: 22px;
+    max-height: 22px;
+    text-align: center;
+}
+
+#imgiconsVEF{
+    max-width: 15px;
+    max-height: 15px;
+
+
+}
+
+#imgiconsGols{
+    max-width: 12px;
+    max-height: 12px;
+}
+
+#imgJogos{
+    max-width: 20px;
+    max-height: 20px;
+}
+ 
+table, td, th{
+    border-bottom: solid 1px #e2e2e2;
+    border-collapse: collapse;
+    padding: 7px 7px 7px 7px;
+}
+
+td{
+    text-align: center;
+    font-size: 14px;
+
+}
+
+th{
+    color: darkgrey;
+    font-weight: normal;
+    font-size: 14px;
+    text-align: center;
+}
+
+.thNomeClube{
+    width: 50%;
+}
+
+.tdNomeClube{
+    text-align: left;
+}
+
+ .tableJogo .tdClube{
+    text-align: left;
+    width: 80%;
+    
+}
+
+.tableJogo .thTableJogo{
+    text-align: left;
+
+}
+
+.tableJogo .tdHorario{
+    text-align: left;
+    font-size: 10px;
+    
+}
+
+.thProximojogos .trTableJogos{
+    border-bottom: 0px;
+}
+
+.tdSubClube{
+    text-align: left;
+}
+
+.divMenu{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    clear: both;
+    text-align: center;
+    padding-left: 21%;
+    padding-right: 21%;
+    text-align: center;
+
+}
+
+.itemMenu{
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    width: 12.5%;
+    height: 40px;
+}
+
+.itemMenu:hover{
+    background-color: black;
+}
+
+.button {
+    background-color: rgb(75, 138, 214);
+    border: none;
+    color: white;
+    padding: 19px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  .button2 {
+    background-color: rgb(253, 133, 106);
+    border: none;
+    color: white;
+    padding: 19px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+#TableJogos .tdTableJogos{
+    padding: 10px 10px 10px 10px;
+
+}
+
+#tableJogos th, #tableJogos td{
+    border-bottom: 0px;
+}
+
+
+
+
+

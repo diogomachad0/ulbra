@@ -1,0 +1,105 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px auto;
+}
+
+header{
+    background-color: #007fff;
+    padding: 50px;
+    text-align: center;
+    color: #fff;
+    font-size: 10px;
+}
+
+nav ul{
+    list-style-type: none;
+    text-align: center;
+}
+
+article{
+    background-color: #ffffff;
+    padding: 30px;
+    width: 100%;
+}
+
+footer{
+    background-color: #007fff;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+}
+
+#fotoPrinc{
+    width: 340px;
+    height: 350px;
+    border-radius: 100%;
+}
+
+#fotoLupa{
+    width: 30px;
+    height: 30px;
+}
+
+
+@media (max-width: 600px){
+    section{
+        flex-wrap: wrap;
+    }
+}
+nav{
+    width: 100%;
+    text-align: center;
+    
+   
+}
+
+.button1{
+    border-radius: 2px;
+    text-align: center;
+    
+}
+
+section{
+    text-align: center;
+    
+}
+
+h5{
+    padding-left: 40px;
+}
+
+#imgcentro{
+    width: 400px;
+    height: 250px;
+    
+}
+
+#li1{
+    text-align: left;
+    padding-left: 13%;
+}
+
+#li2{
+    text-align: center;
+
+}
+
+#li3{
+    text-align: right;
+    padding-right: 17%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+??

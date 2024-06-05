@@ -1,0 +1,88 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px auto;
+
+}
+
+header{
+    background-color: #007fff;
+    padding: 50px;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    text-align: left;
+    
+}
+
+section{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+nav{
+    padding: 30px;
+    width: 20%;
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+article{
+    background-color: rgb(0, 0, 0);
+    padding: 30px;
+    width: 80%;
+    color: #fff;
+}
+
+footer{
+    background-color: #007fff;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    display: flex;
+}
+footer h1{
+    text-align: left;
+}
+#escudoPrinc{
+    height: 250px;
+    width: 250px;
+}
+
+#links{
+    text-align: left;
+    font-size: 22px;
+}
+
+#escudoRoda{
+    width: 40px;
+    height: 40px;
+    
+}
+#p1{
+    font-size: 60%;
+}
+#politica{
+    text-align: center;
+    padding-right: 60%;
+}
+
+@media (max-width: 600px){
+    section{
+        flex-wrap: wrap;
+    }
+    nav{
+        width: 100%;
+    }
+    article{
+        width: 100%;
+    }
+}
